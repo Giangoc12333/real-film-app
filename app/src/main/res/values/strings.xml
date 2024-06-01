@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Real Phim</string>
+    <!-- common -->
+    <string name="ok">OK</string>
+    <string name="add">Thêm</string>
+    <string name="required_fields_message">Các trường là bắt buộc</string>
+    <string name="edit">Sửa</string>
+
+    <!-- common movie -->
+    <string name="genre">sap delete:</string>
+    <string name="link">link %s</string>
+    <string name="link_movie">Link phim:</string>
+    <string name="movie_name">Tên phim:</string>
+    <string name="movie_actors">Diễn viên:</string>
+    <string name="movie_director">Đạo diễn:</string>
+    <string name="movie_duration">Thời lượng (Phút):</string>
+    <string name="country">Quốc gia</string>
+    <string name="movie_release">Năm phát hành:</string>
+    <string name="movie_genre">Thể loại:</string>
+    <string name="movie_country">Quốc gia:</string>
+    <string name="movie_description">Nội dung phim:</string>
+    <string name="movie_trailer">Trailer link:</string>
+
+    <!-- label screen -->
+
+
+    <!-- edit movie -->
+
+    <string name="edit_success">Chỉnh sửa movie thành công</string>
+
+    <string name="textview_new_movie"><u>Phim mới</u></string>
+    <string name="textview_category"><u>Thể loại</u></string>
+    <string name="textview_nation"><u>Quốc gia</u></string>
+
+    <!-- Item trong Popupmenu thể loại -->
+    <string name="category_popup_item_1">Chiến tranh</string>
+    <string name="category_popup_item_2">Hành động</string>
+    <string name="category_popup_item_3">Tâm lý</string>
+    <string name="category_popup_item_4">Viễn tưởng</string>
+    <string name="category_popup_item_5">Kinh dị</string>
+    <string name="category_popup_item_6">Hài hước</string>
+
+    <!-- Item trong Popupmenu quốc gia -->
+    <string name="nation_popup_item_1">Việt Nam</string>
+    <string name="nation_popup_item_2">Thái Lan</string>
+    <string name="nation_popup_item_3">Hàn Quốc</string>
+    <string name="nation_popup_item_4">Mỹ</string>
+    <string name="nation_popup_item_5">Hồng Kông</string>
+    <string name="nation_popup_item_6">Âu</string>
+
+
+    <string name="tv_login">Đăng nhập</string>
+    <string name="tv_register">Đăng ký</string>
+    <string name="btn_confirm">Xác nhận</string>
+    <string name="error_not_be_empty">Chỗ này không được bỏ trống</string>
+    <string name="error_password_more_chr">Mật khẩu phải >6 ký tự</string>
+
+    <!-- login -->
+    <string name="text_password">Mật khẩu</string>
+    <string name="cb_remember_login">Lưu đăng nhập!</string>
+    <string name="tv_question">Bạn chưa có tài khoản?</string>
+    <string name="progressDialog_logging">Đang đăng nhập, Vui lòng chờ...</string>
+    <string name="toast_logging">Đăng nhập thành công.</string>
+
+    <!-- register -->
+    <string name="tip_name">Tên</string>
+    <string name="tip_birthday">Sinh nhật</string>
+    <string name="tip_password_1">Mật khẩu (6-20 ký tự)</string>
+    <string name="tip_password_2">Nhập lại mật khẩu</string>
+    <string name="cb_agree">Đồng ý với các Điều khoản và Điều kiện của chúng tôi</string>
+    <string name="tv_have_accout">Bạn đã có tài khoản?</string>
+    <string name="error_agree">Vui lòng đọc và đồng ý với chính sách người dùng của chúng tôi.</string>
+    <string name="error_email_1">Địa chỉ email không hợp lệ</string>
+    <string name="error_password_1">Mật khẩu nhập lại không chính xác</string>
+    <string name="toast_register_succes">Đăng ký thành công, vui lòng đăng nhập!</string>
+    <string name="progressDialog_register_loading">Đang xử lý, Vui lòng chờ...</string>
+    <string name="title_activity_reset_password1">ResetPassword1Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+
+
+</resources>
